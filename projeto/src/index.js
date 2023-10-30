@@ -8,7 +8,7 @@ import Contador from './componentes/pages/Contador';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Contador />
+    <Cronometro />
   </React.StrictMode>
 );
 
